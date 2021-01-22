@@ -1,7 +1,4 @@
 # Investigating a Dataset
-
-### Udacity Data Analyst Nanodegree (DAND) - Project 2
-
 ## Project Overview
 In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries `NumPy`, `pandas`, and `Matplotlib` to make your analysis easier.
 
@@ -52,6 +49,6 @@ The project walkthrough can be found [here](https://www.youtube.com/watch?time_c
 
 ___
 
-- You can find the source code of the analyzing of the selected dataset in [this file](Investigating%20on%20The%20No-Show%20Appointments%20Dataset.ipynb).
+- You can find the source code of the analysis of the selected dataset in [this file](Investigating%20on%20The%20No-Show%20Appointments%20Dataset.ipynb).
 
 - Moreover, you can check the code as [HTML file](Investigating%20on%20The%20No-Show%20Appointments%20Dataset.html) that can be created by jupyter notebook.
